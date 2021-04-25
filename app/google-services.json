@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "606284130678",
+    "firebase_url": "https://home-expense-management.firebaseio.com",
+    "project_id": "home-expense-management",
+    "storage_bucket": "home-expense-management.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606284130678:android:379e6a729aeb14430c3257",
+        "android_client_info": {
+          "package_name": "com.example.homeexpensemanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "606284130678-fms8cbuu1kh8k836lkbgg6mn96r2lbsq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIFbAslq3RZfUlkp-_5SB1l8z7hC93U3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "606284130678-fms8cbuu1kh8k836lkbgg6mn96r2lbsq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
